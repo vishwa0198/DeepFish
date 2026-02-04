@@ -7,4 +7,5 @@ pandas
 numpy
 opencv-python
 seaborn
+plotly
 streamlit
